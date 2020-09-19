@@ -1,5 +1,6 @@
-# nodeapp
-nodeapp hello world
+# NodeJS-App
+
+node app hello world
 
 
 
@@ -8,4 +9,5 @@ nodeapp hello world
 #### Run the commands
 
 ```$ npm install```
+
 ```$ node app.js```
